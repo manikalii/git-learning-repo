@@ -2,12 +2,10 @@ public class Hello{
     public static void main(String[] args)
     {
         System.out.println("vs code is awesome");
-        grettings("Git");
-        
     }
     
-    public static void display()
+    public static void message()
     {
-        System.out.println("hello hello");
+        System.out.println("Hurray now we are able to contribute on open source");
     }
 }
