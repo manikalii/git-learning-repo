@@ -5,10 +5,10 @@ public class Hello{
         grettings("Git");
         
     }
-
-    public static void grettings(String name)
+    
+    public static void display()
     {
-        System.out.println("By By" + name)
+        System.out.println("hello hello");
     }
 
     public static int sqr(int  x)
