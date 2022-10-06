@@ -9,4 +9,9 @@ public class Hello{
     {
         System.out.println("welcome" + name)
     }
+
+    public static int sqr(int  x)
+    {
+        return x * x;
+    }
 }
